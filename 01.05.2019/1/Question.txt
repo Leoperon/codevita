@@ -1,0 +1,1 @@
+Write down a program to find out prime numbers in a particular range of numbers taking user input.  Example 01. Prime number between 50 to 80  Example 02. Prime number between 1001 to 1200 

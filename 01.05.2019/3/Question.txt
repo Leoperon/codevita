@@ -1,0 +1,7 @@
+Write down a user defined program to print the following.  
+Input : Ram Has Two Cow    
+Output : Woc Owt Sah Mar  
+
+Input : Today Is Tuesday 
+Output : Yadseut Si Yadot 
+ 

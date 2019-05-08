@@ -1,0 +1,4 @@
+Write down a user defined program maintaining the following statements. 
+(a) 20 liter barrel security deposit is Rs60 & water cost is Rs50. A van having carrying capacity 10 barrel at a time charges Rs100 for transport to bring water.  
+(b) Your father gives you Rs 5000 to bring water. 
+(c) How much water you can bring maximum. 
